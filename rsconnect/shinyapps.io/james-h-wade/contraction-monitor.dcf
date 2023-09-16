@@ -1,0 +1,12 @@
+name: contraction-monitor
+title: contraction-monitor
+username: james-h-wade
+account: james-h-wade
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9888402
+bundleId: 7692318
+url: https://james-h-wade.shinyapps.io/contraction-monitor/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
